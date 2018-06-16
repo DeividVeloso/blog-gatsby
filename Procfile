@@ -1,1 +1,0 @@
-web: yarn start -- --port ${9000}
